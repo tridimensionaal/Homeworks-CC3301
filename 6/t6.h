@@ -1,0 +1,2 @@
+void ocupar();
+void desocupar();
